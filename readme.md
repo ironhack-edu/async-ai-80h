@@ -16,13 +16,9 @@ The repository includes:
 
 ### How to Use This Repository
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/Ironhack/self-study-repo.git
-   ```
-2. Navigate through the folders to find the topic you want to study.
-3. Follow along with the provided instructions and complete any exercises.
-4. You are encouraged to experiment with the code examples and modify them as needed to deepen your understanding.
+1. Navigate through the folders to find the topic you want to study.
+2. Follow along with the provided instructions and complete any exercises.
+3. You are encouraged to experiment with the code examples and modify them as needed to deepen your understanding.
 
 ## License & Usage
 
