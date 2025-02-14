@@ -1,4 +1,4 @@
-<!-- # **Lesson 6: Project Proposal Development** -->
+# **Lesson 6: Project Proposal Development**
 
 <br>
 
