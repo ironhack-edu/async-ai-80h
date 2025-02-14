@@ -1,4 +1,4 @@
-<!-- # **Module 1 Project: AI Concepts Integration** -->
+# **Module 1 Project: AI Concepts Integration**
 
 <br>
 
