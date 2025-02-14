@@ -1,4 +1,4 @@
-<!-- # **Lesson 5: Integrating AI Tools into Workflow** -->
+# **Lesson 5: Integrating AI Tools into Workflow**
 
 <br>
 
