@@ -1,4 +1,4 @@
-<!-- # **Module 2 Project: Integrating ChatGPT & Microsoft Copilot** -->
+# **Module 2 Project: Integrating ChatGPT & Microsoft Copilot**
 
 <br>
 
