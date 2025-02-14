@@ -1,4 +1,4 @@
-<!-- # **Lesson 2: Hands-On with ChatGPT** -->
+# **Lesson 2: Hands-On with ChatGPT**
 
 <br>
 
