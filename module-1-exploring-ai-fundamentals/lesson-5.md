@@ -1,4 +1,4 @@
-<!-- # **Lesson 5: Practical Applications of AI** -->
+# **Lesson 5: Practical Applications of AI**
 
 <br>
 
