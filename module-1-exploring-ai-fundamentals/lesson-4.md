@@ -1,4 +1,4 @@
-<!-- # **Lesson 4: Current AI Technologies and Their Capabilities** -->
+# **Lesson 4: Current AI Technologies and Their Capabilities**
 
 <br>
 
