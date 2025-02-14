@@ -1,4 +1,4 @@
-<!-- # Lesson 1: Introduction to AI and its History -->
+# Lesson 1: Introduction to AI and its History
 
 <br>
 
