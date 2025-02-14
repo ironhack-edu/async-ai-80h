@@ -1,4 +1,4 @@
-<!-- # **Lesson 2: Understanding Machine Learning** -->
+# **Lesson 2: Understanding Machine Learning**
 
 <br>
 
