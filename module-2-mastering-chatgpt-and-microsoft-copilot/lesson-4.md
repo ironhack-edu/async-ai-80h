@@ -1,4 +1,4 @@
-<!-- # **Lesson 4: Hands-On with Microsoft Copilot** -->
+# **Lesson 4: Hands-On with Microsoft Copilot**
 
 <br>
 
