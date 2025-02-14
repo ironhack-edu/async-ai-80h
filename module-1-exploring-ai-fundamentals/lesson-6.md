@@ -1,4 +1,4 @@
-<!-- # **Lesson 6: Future Trends in AI** -->
+# **Lesson 6: Future Trends in AI**
 
 <br>
 
