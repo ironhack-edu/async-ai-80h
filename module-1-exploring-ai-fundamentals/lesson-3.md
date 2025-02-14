@@ -1,4 +1,4 @@
-<!-- # **Lesson 3: Deep Learning and Neural Networks** -->
+# **Lesson 3: Deep Learning and Neural Networks**
 
 <br>
 
